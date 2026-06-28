@@ -1,0 +1,2 @@
+# The-construction-of-knowledge-of-graphs-in-the-assembly-domain-based-on-deep-learning
+This project presents the construction of an assembly domain knowledge graph to improve human-robot collaboration. A chinese character-based NER model (Bert-BiLSTM-CRF) and a relation extraction model (Bert-BiGRU-ATT) are developed to accurately identify entities and extract their relationships from heterogeneous assembly data. 
